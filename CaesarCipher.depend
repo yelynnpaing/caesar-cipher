@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716701828 source:d:\pgdca-b32\cdoublefreetutos\caesarcipher\main.cpp
+	<iostream>
+	<string>
+
